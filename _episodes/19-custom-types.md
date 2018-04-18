@@ -40,7 +40,7 @@ converting a standard biom table file to hd5 format.
 ___Note:___ To follow the example below, you need to download the example input file, *rich_sparse_otu_table.biom*. The file is available from [https://github.com/common-workflow-language/user_guide/raw/gh-pages/_includes/cwl/rich_sparse_otu_table.biom](https://github.com/common-workflow-language/user_guide/raw/gh-pages/_includes/cwl/rich_sparse_otu_table.biom) and can be downloaded e.g. via `wget`:
 
 ~~~
-wget https://github.com/common-workflow-language/user_guide/raw/gh-pages/_includes/cwl/rich_sparse_otu_table.biom
+wget https://github.com/common-workflow-language/user_guide/tree/gh-pages/_includes/cwl/19-custom-types/rich_sparse_otu_table.biom
 ~~~
 {: .source}
 
